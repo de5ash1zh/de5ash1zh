@@ -1,58 +1,45 @@
-# Devashish
+<h2 align="left">Hi, I'm Devashish — Full Stack Developer from India</h2>
 
-Full Stack Developer with interest in building scalable web tools and modern developer infrastructure. Currently exploring mobile and Android development.
+###
 
-## Interests
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=de5ash1zh&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=de5ash1zh&layout=compact&langs_count=6&hide_title=true&theme=default&hide_border=true" height="150" />
+</div>
 
-- Full Stack Web Development
-- Mobile Development (Android, React Native)
-- Developer Tools and CLIs
-- System Design and Performance
-- AI/LLM-powered developer automation
+###
 
-## Skills
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" />
+</div>
 
-**Languages:** JavaScript, TypeScript, Java  
-**Frontend:** React, Next.js, Tailwind CSS, ShadCN UI  
-**Backend:** Node.js, Express, PostgreSQL, Prisma, MySQL  
-**DevOps/Tools:** Git, Docker, Postman, JWT, OAuth, Linux  
-**Cloud:** AWS (S3, EC2), Vercel, Render  
-**Other:** REST APIs, Auth, Database Design, Responsive UI
+###
 
-## Projects
+### Selected Projects
+- **S3UI** – AWS S3 file explorer with real-time analytics  
+  [Live](https://s3ui.onrender.com)
 
-**S3UI – S3 File Explorer**  
-[Live Demo](https://s3ui.onrender.com)  
-Responsive UI for managing AWS S3 files with drag-and-drop, secure auth, and real-time analytics.
+- **AI CLI Cursor** – Terminal-based AI assistant using OpenAI/Gemini  
+  [GitHub](https://github.com/de5ash1zh/customCLIcursor)
 
-**AI Custom CLI Cursor**  
-[GitHub](https://github.com/de5ash1zh/customCLIcursor)  
-CLI assistant using OpenAI and Gemini APIs. Scaffolds code, debugs, writes docs, and tests from prompts.
+- **LeetLab** – Full-stack Leetcode practice platform (WIP)  
+  [GitHub](https://github.com/de5ash1zh/desileetcode)
 
-**LeetLab (In Progress)**  
-[GitHub](https://github.com/de5ash1zh/desileetcode)  
-Full-stack coding platform with support for multiple languages, Judge0 integration, submission history, and editor.
+- **MonoHub Lookup** – Minimal GitHub profile viewer  
+  [Live](https://monohub-weld.vercel.app)
 
-**MonoHub Lookup**  
-[Live Demo](https://monohub-weld.vercel.app/)  
-Lightweight GitHub profile explorer using GitHub API with pagination, error handling, and real-time data.
+###
 
-## Experience
-
-**Full Stack Developer Intern – Technophilia**  
-June 2024 – July 2024  
-Worked on backend features, database schema design, REST APIs, and sprint collaboration using Node.js, Prisma, and PostgreSQL.
-
-## Education
-
-B.Sc. Computer Science, BBAU Lucknow  
-2021 – 2025 | CGPA: 7.5
-
-## Links
-
-[Portfolio](https://de5ash1zh.vercel.app)  
-[LinkedIn](https://linkedin.com/in/dxtndrkx)  
-[Twitter](https://x.com/de5ash1zh)  
-[Blog](https://de5ash1zh.hashnode.dev)  
-[Email](mailto:de5ash1zh@gmail.com)
-
+### Connect
+- [Portfolio](https://de5ash1zh.vercel.app)
+- [GitHub](https://github.com/de5ash1zh)
+- [LinkedIn](https://linkedin.com/in/dxtndrkx)
+- [Blog](https://de5ash1zh.hashnode.dev)
