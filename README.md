@@ -25,11 +25,4 @@
 
 ---
 
-##  GitHub Analytics
-![Devashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=de5ash1zh&show_icons=true&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com?user=de5ash1zh&theme=default&border_radius=4.5)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=de5ash1zh&layout=compact)  
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=de5ash1zh&color=blue&style=flat-square)  
